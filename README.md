@@ -1,3 +1,12 @@
+#HTML file
+I had a little bit of trouble customizing the individual labels, spacing was an issue but then i discovered &nbsp; which is awesome!!!
+I broke the label and input tabs up with div tags which helped with the visual aspect of the project 
+#CSS file
+creating a .employees tag was huge when it came to listing out the information that each employee input into the system
+#JS file 
+I had a bit of trouble with this file even though most of the code was already provided.  I worked with a few classmates on this and they helped navigate me to a functional sight.
+
+
 # Weekend 1 Challenge Starter Repo
 
 If you want, you can start your project by forking and cloning this repo.
