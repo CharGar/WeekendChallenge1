@@ -2,14 +2,16 @@ h1 {
 text-shadow: 3px 3px black;
   text-align: center;
   font-size: 60px;
-  color: #990099
+  color: #990099;
+  white-space: nowrap;
 
 
 }
 h2 {
   text-align: center;
-  color: green;
+  color: #990099;
   text-shadow: 1.3px 1.3px black;
+  white-space: nowrap;
 }
 .employee {
   display: inline-block;
@@ -20,41 +22,34 @@ h2 {
   shadow:3px 3px black;
 }
 .whatever {
-  align: center;
-  padding-left: 500px;
+  text-align: center;
+  padding-left:  auto;
   padding-bottom: 20px;
+  color:#990099;
+  font-size: 30px;
+  font-weight:bold;
+  text-shadow:1px 1px black;
+  white-space: nowrap;
 }
 .names {
-  align: center;
-  padding-left: 500px;
-  padding-bottom: 20px
+  text-align: center;
+  padding-left: auto;
+  padding-bottom: 20px;
+  color:#990099;
+  font-size: 30px;
+  font-weight:bold;
+  text-shadow:1px 1px black;
+  white-space: nowrap;
 }
 .salary {
-  align: center;
-  padding-left: 550px;
-}
-img {
-
+  text-align: center;
+  padding-left: auto;
+  color:#990099;
+  font-size: 30px;
+  font-weight:bold;
+  text-shadow:1px 1px black;
+    white-space: nowrap;
 }
 body {
   background-image: url("cash.gif");
 }
-/*#employeeFirstName {
-margin-top: 1px;
-  margin-left: 50px;
-}
-#employeeLastName {
-margin-right: 50px;
-}
-#employeeIdNumber {
-margin-top: 100px;
-margin-left: 50px;
-}
-#employeeJobTitle {
-  margin-top: 100px;
-  margin-right: 50px;
-}
-#employeeAnnualSalary {
-  margin-top: 150px
-
-}*/
