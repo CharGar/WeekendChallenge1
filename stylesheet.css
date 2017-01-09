@@ -1,0 +1,60 @@
+h1 {
+text-shadow: 3px 3px black;
+  text-align: center;
+  font-size: 60px;
+  color: #990099
+
+
+}
+h2 {
+  text-align: center;
+  color: green;
+  text-shadow: 1.3px 1.3px black;
+}
+.employee {
+  display: inline-block;
+  margin: 25px 25px;
+  background-color: #00ffff;
+  padding:10px 35px 10px 35px;
+  border-radius: 30px 30px 30px 30px;
+  shadow:3px 3px black;
+}
+.whatever {
+  align: center;
+  padding-left: 500px;
+  padding-bottom: 20px;
+}
+.names {
+  align: center;
+  padding-left: 500px;
+  padding-bottom: 20px
+}
+.salary {
+  align: center;
+  padding-left: 550px;
+}
+img {
+
+}
+body {
+  background-image: url("cash.gif");
+}
+/*#employeeFirstName {
+margin-top: 1px;
+  margin-left: 50px;
+}
+#employeeLastName {
+margin-right: 50px;
+}
+#employeeIdNumber {
+margin-top: 100px;
+margin-left: 50px;
+}
+#employeeJobTitle {
+  margin-top: 100px;
+  margin-right: 50px;
+}
+#employeeAnnualSalary {
+  margin-top: 150px
+
+}*/
